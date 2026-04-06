@@ -1,6 +1,6 @@
 ---
 
-# 💻 CS-1201 Object Oriented Programming – Lab 01
+# 💻 CSC-521 Object Oriented Programming – Lab 01
 
 This lab focuses on understanding and implementing **structures in C++**. Through three practical tasks, students will explore structure declaration, arrays of structures, and structure pointers with member functions.
 
