@@ -69,6 +69,27 @@ Displays rectangle dimensions and area using different constructor versions.
 
 ---
 
+# ⭐ Task 4: Destructor – Locker System
+## 🔍 Overview
+
+This task involves creating a `Locker` class that prints messages when allocated and returned. The destructor is automatically called when the object goes out of scope or is deleted.
+
+## 🎯 Objective
+
+To understand destructors and how they manage cleanup when objects are destroyed.
+
+## ✔️ Output
+
+Displays messages showing when a locker is allocated and when it is returned.
+
+## ✍️ Learning Outcomes
+
+- Implement destructors in C++  
+- Understand automatic cleanup of resources  
+- Differentiate between stack and heap object destruction  
+
+---
+
 ## 📚 Reference
 
 - W3Schools – C++ Constructors [(w3schools.com in Bing)](https://www.bing.com/search?q=w3schools+c%2B%2B+constructors)
